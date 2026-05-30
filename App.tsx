@@ -1,5 +1,5 @@
 import { CheckCircle2, ArrowRight, Star, Menu } from 'lucide-react';
-
+import { Paintbrush, Sparkles, Shield, Star, CheckCircle, Clock, MapPin, Phone, Mail } from "lucide-react";
 export default function App() {
   return (
     <div className="flex flex-col min-h-screen font-sans selection:bg-brand selection:text-white">
