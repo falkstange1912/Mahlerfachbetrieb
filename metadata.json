@@ -1,0 +1,6 @@
+{
+  "name": "Malerfachbetrieb Landingpage",
+  "description": "Eine professionelle, moderne Landingpage für einen Malerfachbetrieb, optimiert für Konversionen mit klarem Hook, Wertversprechen und Call-to-Action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
